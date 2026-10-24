@@ -1,4 +1,4 @@
- Tic-Tac-Toe Game Suite (GUI & CLI)
+# Tic-Tac-Toe Game Suite (GUI & CLI)
 
 This repository contains two separate implementations of the classic **Tic-Tac-Toe** game written in Python. It demonstrates the structural and conceptual differences between terminal-driven (CLI) and event-driven (GUI) applications, while incorporating basic AI decision-making.
 
