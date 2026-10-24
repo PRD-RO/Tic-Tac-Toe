@@ -47,7 +47,7 @@ The AI recursively evaluates available moves to select the path with the highest
    ```bash
    python Tic_Tac_Toe.py
    
-**Run the Command Line Version (CLI):**
+2. **Run the Command Line Version (CLI):**
 ```bash
    python XOGame.py 
 ```
