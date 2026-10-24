@@ -47,10 +47,10 @@ The AI recursively evaluates available moves to select the path with the highest
    ```bash
    python Tic_Tac_Toe.py
    
-Run the Command Line Version (CLI):
-Bash
-   python XOGame.py
-
+**Run the Command Line Version (CLI):**
+```bash
+   python XOGame.py 
+```
 
 Purpose
 This project showcases fundamental software engineering concepts in Python, contrasting standard procedural/terminal loops with event-driven GUI architecture, along with basic algorithmic decision-making.
